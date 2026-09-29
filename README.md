@@ -1,6 +1,18 @@
 # Tugas PBO - Array dan ArrayList
 
-Pada program ini dibuat simulasi bank sederhana yang terdiri dari beberapa class, yaitu `Account`, `Customer`, dan `Bank`. Program juga dilengkapi dengan class `Main` sebagai main program untuk mencoba object dan method yang sudah dibuat.
+## GAMBAR
+
+# 1. cek daftar bank ![alt text](image.png)
+
+# 2. tambah customer ![alt text](image-1.png)
+
+# 3. lihat akun ![alt text](image-2.png)
+
+# 4. deposit ![alt text](image-3.png)
+
+# 5. withdraw ![alt text](image-4.png)
+
+# 6. ceksaldo ![alt text](image-5.png)
 
 ## Struktur Class
 
